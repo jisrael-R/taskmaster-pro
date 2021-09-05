@@ -1,2 +1,2 @@
 # taskmaster-pro
-<link href=" https://jisrael-r.github.io/taskmaster-pro/">Taskmaster-Pro
+[Taskmaster-Pro](https://jisrael-r.github.io/taskmaster-pro/)
